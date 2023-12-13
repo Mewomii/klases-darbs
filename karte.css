@@ -1,0 +1,23 @@
+.title{
+          color: red;
+          font-weight: bold;
+}
+
+.toes{
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          
+}
+
+*{
+          background-color: beige;
+}
+
+.text{
+          
+}
+
+.AA{
+          background-color: white;
+}
